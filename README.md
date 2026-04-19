@@ -1,5 +1,21 @@
 # HR Workforce Insights & Employee Attrition Predictor Dashboard
 
+## 📥 Download
+
+| File | Description |
+|---|---|
+| [📊 HR_Workforce_Dashboard.pbix](https://github.com/atishey4/hr-workforce-attrition-dashboard-powerbi/raw/main/HR_Workforce_Dashboard.pbix) | Power BI Dashboard File |
+
+> **Note:** Download the `.pbix` file and open it with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) to explore the full interactive dashboard.
+
+---
+
+## Dashboard Overview
+
+![HR Workforce Dashboard](screenshots/Screenshot%202026-04-19%20101953.png)
+
+---
+
 ## Objective
 To design a Power BI dashboard that provides insights into workforce demographics, employee performance, and attrition trends while integrating a predictive component to forecast employee turnover.
 
@@ -107,15 +123,6 @@ High Risk % = DIVIDE([High Attrition Risk Count], [Total Employees], 0) * 100
 - **Hybrid work mode** has the largest share of employees, while Office-based employees show higher attrition risk
 - Gender distribution is broadly balanced across most departments, with Sales having the highest female representation
 - **Medium risk employees** form the largest segment of the workforce, representing a key retention opportunity
-
----
-
-## Screenshots
-
-### Dashboard Overview
-![HR Workforce Dashboard](screenshots/dashboard_overview.png)
-
-> *Add your Power BI dashboard screenshot here. Export from Power BI → File → Export → Export to PDF or take a screenshot and save in the `screenshots/` folder.*
 
 ---
 
