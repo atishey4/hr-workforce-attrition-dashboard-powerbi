@@ -1,0 +1,201 @@
+Employee ID,Employee Name,Age,Gender,Department,Job Role,Education Level,Marital Status,Location,Joining Date,Years at Company,Monthly Income,Performance Rating,Training Hours,Overtime Status,Work Mode,Job Satisfaction Score,Work Life Balance Score,Promotion Last 2 Years,Absenteeism Rate,Attrition Status,Attrition Risk Level
+EMP0001,Aarav Nair,37,Male,Finance,Financial Analyst,High School,Divorced,Pune,16-06-2014,10.8,5869,3,8,Yes,Office,3.0,1.1,Yes,9.7,Yes,High
+EMP0002,Siddharth Kapoor,39,Male,Engineering,Data Analyst,PhD,Married,Bangalore,14-12-2022,2.3,7406,3,16,No,Hybrid,4.4,3.4,No,10.9,No,Medium
+EMP0003,Anjali Srivastava,40,Female,Marketing,Brand Manager,Bachelor's,Divorced,Mumbai,01-04-2024,1.0,6818,3,15,No,Office,2.5,2.8,No,2.4,No,Medium
+EMP0004,Anjali Rao,32,Female,Finance,Financial Analyst,PhD,Married,Bangalore,11-05-2013,11.9,7159,4,46,No,Office,1.9,1.1,No,4.0,Yes,High
+EMP0005,Meera Malhotra,47,Female,Customer Service,Customer Support Executive,Master's,Single,Delhi,27-02-2016,9.1,3894,4,59,No,Hybrid,2.4,5.0,Yes,7.4,No,Medium
+EMP0006,Rohan Kumar,49,Male,Sales,Business Development Manager,PhD,Divorced,Hyderabad,27-08-2018,6.6,7932,5,6,No,Office,3.7,3.1,No,9.6,Yes,Medium
+EMP0007,Divya Chopra,22,Female,Operations,Operations Manager,Bachelor's,Divorced,Mumbai,04-10-2014,10.5,7556,4,30,Yes,Office,3.2,4.1,No,0.0,No,Medium
+EMP0008,Rahul Pillai,41,Male,Finance,Financial Analyst,Bachelor's,Divorced,Mumbai,02-10-2023,1.5,6800,2,73,No,Office,3.6,4.8,Yes,7.9,No,Low
+EMP0009,Ishaan Joshi,41,Male,IT Support,System Analyst,Master's,Married,Chennai,22-07-2019,5.7,5620,2,7,No,Office,3.4,1.0,No,0.9,Yes,Medium
+EMP0010,Deepak Singh,54,Male,Finance,Accountant,PhD,Single,Chennai,02-04-2023,2.0,5887,4,65,Yes,Hybrid,4.2,1.8,Yes,6.5,No,Medium
+EMP0011,Sneha Patel,25,Female,IT Support,System Analyst,Master's,Single,Delhi,21-07-2022,2.7,6226,2,28,Yes,Office,4.5,1.3,No,12.8,Yes,High
+EMP0012,Vikas Mehta,32,Male,IT Support,Network Administrator,PhD,Single,Kolkata,26-02-2020,5.1,4932,3,54,Yes,Hybrid,2.1,3.8,No,11.8,Yes,High
+EMP0013,Pooja Joshi,40,Female,Finance,Financial Analyst,High School,Divorced,Bangalore,19-01-2024,1.2,7029,4,72,Yes,Remote,1.3,1.7,No,10.1,Yes,High
+EMP0014,Vivek Mehta,24,Male,Sales,Business Development Manager,Master's,Married,Delhi,21-01-2017,8.2,6399,3,21,No,Hybrid,2.8,4.7,No,0.1,No,Low
+EMP0015,Vikas Srivastava,35,Male,Operations,Operations Analyst,Master's,Single,Delhi,21-07-2020,4.7,4903,4,43,No,Remote,3.1,3.7,No,14.0,Yes,Medium
+EMP0016,Rajesh Patel,28,Male,HR,HR Manager,Master's,Divorced,Delhi,15-06-2016,8.8,6525,4,38,No,Hybrid,4.6,4.4,Yes,6.4,No,Low
+EMP0017,Deepak Gupta,38,Male,HR,L&D Specialist,PhD,Divorced,Mumbai,14-06-2023,1.8,5903,4,24,No,Hybrid,3.3,1.6,Yes,4.6,No,Medium
+EMP0018,Nikhil Joshi,37,Male,Sales,Business Development Manager,PhD,Divorced,Pune,14-12-2022,2.3,7836,5,27,No,Office,1.7,4.7,No,6.2,No,Medium
+EMP0019,Rajesh Kumar,28,Male,IT Support,IT Support Engineer,PhD,Single,Delhi,11-05-2015,9.9,4634,3,34,Yes,Remote,1.8,2.3,No,14.5,Yes,High
+EMP0020,Megha Iyer,23,Female,Sales,Business Development Manager,Bachelor's,Divorced,Bangalore,08-05-2024,0.9,7058,3,45,No,Remote,1.5,4.6,Yes,0.7,No,Medium
+EMP0021,Nikhil Bose,26,Male,Marketing,Brand Manager,Master's,Divorced,Kolkata,09-05-2023,1.9,8543,4,57,Yes,Remote,2.2,1.5,No,14.1,Yes,High
+EMP0022,Gaurav Kapoor,41,Male,IT Support,System Analyst,High School,Married,Bangalore,09-05-2022,2.9,6750,4,46,No,Hybrid,3.7,3.0,No,14.4,No,Medium
+EMP0023,Ankit Saxena,43,Male,Sales,Sales Executive,Master's,Single,Kolkata,15-06-2022,2.8,3935,3,65,No,Office,2.8,4.5,No,10.8,No,Medium
+EMP0024,Riya Gupta,22,Female,Sales,Business Development Manager,Bachelor's,Single,Kolkata,04-10-2013,11.5,6875,2,36,No,Office,2.8,4.2,No,14.8,No,Medium
+EMP0025,Kritika Saxena,49,Female,Customer Service,Customer Support Executive,PhD,Married,Bangalore,27-02-2016,9.1,4289,3,71,No,Office,2.1,1.3,No,4.1,Yes,High
+EMP0026,Rohan Gupta,36,Male,IT Support,System Analyst,Bachelor's,Divorced,Delhi,19-01-2024,1.2,5955,4,58,Yes,Hybrid,2.6,4.1,No,0.3,No,Medium
+EMP0027,Ritu Sharma,44,Female,Operations,Supply Chain Executive,PhD,Divorced,Pune,10-05-2016,8.9,5649,5,67,Yes,Hybrid,2.9,2.6,No,12.0,No,High
+EMP0028,Pooja Rao,56,Female,Engineering,DevOps Engineer,High School,Single,Pune,08-11-2019,5.4,8650,3,38,No,Office,2.8,2.4,No,4.2,No,Medium
+EMP0029,Neha Singh,52,Female,Engineering,Software Engineer,Master's,Single,Pune,14-12-2023,1.3,8394,1,8,No,Office,4.4,3.5,Yes,7.1,No,Low
+EMP0030,Siddharth Nair,45,Male,HR,HR Executive,Bachelor's,Married,Mumbai,20-01-2018,7.2,4896,4,53,No,Remote,1.8,3.4,No,3.6,No,Medium
+EMP0031,Kritika Patel,58,Female,Engineering,QA Engineer,PhD,Divorced,Bangalore,14-12-2023,1.3,5831,1,58,No,Office,2.7,2.4,No,6.9,Yes,High
+EMP0032,Pranav Nair,56,Male,Customer Service,Team Lead,PhD,Divorced,Chennai,26-08-2021,3.6,6218,4,16,Yes,Hybrid,2.0,2.9,No,5.7,Yes,High
+EMP0033,Divya Malhotra,35,Female,Marketing,Content Strategist,Master's,Married,Chennai,27-08-2016,8.6,4891,1,29,Yes,Remote,2.6,3.2,Yes,7.1,No,Medium
+EMP0034,Priya Singh,40,Female,Finance,Accountant,Bachelor's,Married,Pune,20-01-2018,7.2,5078,4,59,No,Remote,2.3,3.8,No,3.8,Yes,Medium
+EMP0035,Deepak Patel,56,Male,HR,Recruiter,Bachelor's,Divorced,Hyderabad,21-07-2021,3.7,4841,4,41,No,Office,2.2,2.4,No,10.6,Yes,High
+EMP0036,Arjun Srivastava,40,Male,HR,L&D Specialist,High School,Single,Chennai,14-06-2021,3.8,5087,3,11,Yes,Hybrid,1.5,1.3,No,8.7,Yes,High
+EMP0037,Rohan Kapoor,41,Male,Sales,Sales Executive,High School,Divorced,Kolkata,15-12-2019,5.3,4852,4,71,No,Hybrid,2.2,3.4,No,8.5,Yes,High
+EMP0038,Suresh Joshi,38,Male,Sales,Sales Executive,Bachelor's,Single,Chennai,08-11-2023,1.4,3900,4,65,Yes,Office,2.2,2.1,No,1.1,Yes,High
+EMP0039,Aditi Joshi,49,Female,Sales,Account Manager,Bachelor's,Divorced,Delhi,11-05-2014,10.9,6646,2,26,No,Remote,4.0,3.3,No,1.9,No,Medium
+EMP0040,Neha Saxena,56,Female,Customer Service,Team Lead,High School,Divorced,Mumbai,23-07-2014,10.7,5996,4,8,Yes,Remote,4.3,3.3,No,15.0,No,Medium
+EMP0041,Aditi Verma,33,Female,Customer Service,Service Manager,PhD,Married,Delhi,04-04-2013,12.0,6683,4,16,No,Hybrid,2.3,3.7,No,4.9,No,Medium
+EMP0042,Ananya Srivastava,24,Female,Customer Service,Customer Support Executive,Master's,Married,Bangalore,14-06-2023,1.8,4201,5,5,No,Remote,2.8,1.2,No,9.3,Yes,High
+EMP0043,Sneha Joshi,39,Female,HR,HR Manager,PhD,Divorced,Hyderabad,09-05-2023,1.9,8433,4,35,No,Hybrid,3.2,3.2,Yes,14.9,No,Medium
+EMP0044,Kavya Gupta,53,Female,Operations,Operations Manager,Master's,Married,Kolkata,03-04-2019,6.0,8037,4,23,No,Remote,3.0,4.5,No,4.1,No,Low
+EMP0045,Nisha Saxena,39,Female,Engineering,QA Engineer,Master's,Divorced,Chennai,04-04-2013,12.0,5532,2,73,No,Hybrid,3.2,3.2,No,4.8,Yes,Medium
+EMP0046,Vivek Das,36,Male,IT Support,IT Support Engineer,Master's,Divorced,Hyderabad,27-08-2016,8.6,5197,3,24,No,Office,1.5,4.9,No,1.5,No,Medium
+EMP0047,Pranav Chopra,22,Male,HR,L&D Specialist,Bachelor's,Single,Hyderabad,04-10-2015,9.5,4713,4,55,No,Hybrid,4.4,4.4,No,4.7,No,Low
+EMP0048,Megha Verma,26,Female,Finance,Finance Manager,Master's,Single,Pune,02-10-2023,1.5,9936,4,17,No,Remote,2.2,1.1,No,0.8,Yes,High
+EMP0049,Pooja Mehta,55,Female,IT Support,System Analyst,Bachelor's,Single,Delhi,08-11-2023,1.4,6928,4,35,No,Remote,1.6,2.8,No,3.8,Yes,High
+EMP0050,Swati Srivastava,32,Female,Sales,Business Development Manager,Master's,Divorced,Bangalore,15-06-2017,7.8,6656,3,43,Yes,Hybrid,4.4,1.4,No,5.4,Yes,Medium
+EMP0051,Priya Das,39,Female,Engineering,Software Engineer,PhD,Married,Kolkata,23-07-2015,9.7,7525,3,29,No,Remote,4.0,4.1,No,2.1,No,Low
+EMP0052,Ankit Chopra,24,Male,Marketing,Brand Manager,Bachelor's,Single,Bangalore,14-12-2020,4.3,7299,3,74,No,Hybrid,3.1,4.7,No,3.9,No,Low
+EMP0053,Swati Iyer,29,Female,Customer Service,Customer Support Executive,Bachelor's,Single,Kolkata,15-12-2016,8.3,4072,3,76,No,Hybrid,1.1,3.1,No,10.1,Yes,High
+EMP0054,Shreya Patel,36,Female,Customer Service,Customer Support Executive,Master's,Divorced,Delhi,10-05-2017,7.9,4021,4,43,No,Office,1.6,4.8,No,7.4,Yes,Medium
+EMP0055,Varun Chopra,45,Male,IT Support,System Analyst,Bachelor's,Married,Pune,26-08-2023,1.6,6127,3,40,Yes,Hybrid,1.9,2.8,Yes,5.4,No,High
+EMP0056,Megha Pillai,25,Female,IT Support,Network Administrator,Bachelor's,Single,Kolkata,04-04-2015,10.0,4998,3,7,Yes,Hybrid,2.0,1.5,No,1.0,No,High
+EMP0057,Vivek Joshi,36,Male,Marketing,Marketing Executive,High School,Married,Kolkata,16-06-2013,11.8,5778,4,27,Yes,Office,1.5,2.4,No,8.8,Yes,High
+EMP0058,Sneha Gupta,48,Female,Sales,Account Manager,High School,Married,Hyderabad,09-11-2015,9.4,6006,2,69,Yes,Remote,1.2,4.1,No,7.8,Yes,High
+EMP0059,Arjun Malhotra,47,Male,IT Support,System Analyst,High School,Married,Pune,04-04-2014,11.0,5254,2,23,Yes,Hybrid,3.5,3.3,No,5.7,No,Medium
+EMP0060,Sonal Saxena,49,Female,Sales,Account Manager,High School,Divorced,Pune,28-08-2014,10.6,6083,5,60,No,Office,2.7,4.3,No,10.9,No,Medium
+EMP0061,Neha Pillai,31,Female,Customer Service,Customer Support Executive,High School,Single,Mumbai,03-10-2019,5.5,4164,3,21,No,Remote,4.8,3.2,No,6.2,No,Low
+EMP0062,Sneha Reddy,41,Female,Marketing,Marketing Executive,Bachelor's,Single,Pune,03-04-2019,6.0,5541,3,76,No,Hybrid,3.3,4.2,No,14.6,No,Medium
+EMP0063,Gaurav Nair,23,Male,HR,HR Manager,Master's,Married,Bangalore,25-08-2024,0.6,8177,4,56,Yes,Remote,3.5,1.1,No,3.2,Yes,High
+EMP0064,Divya Pillai,41,Female,Marketing,Brand Manager,High School,Single,Delhi,14-12-2022,2.3,7819,4,39,No,Hybrid,2.9,2.8,No,11.3,Yes,Medium
+EMP0065,Kavya Reddy,53,Female,Operations,Operations Analyst,Bachelor's,Married,Chennai,25-02-2024,1.1,4991,5,22,No,Hybrid,2.3,1.0,No,2.6,Yes,High
+EMP0066,Pranav Srivastava,44,Male,Sales,Business Development Manager,High School,Married,Mumbai,15-06-2019,5.8,5848,3,59,No,Remote,3.6,2.2,No,14.5,Yes,Medium
+EMP0067,Shreya Singh,49,Female,Sales,Sales Executive,PhD,Divorced,Hyderabad,03-10-2018,6.5,4530,3,48,Yes,Office,1.3,3.5,No,2.9,No,High
+EMP0068,Pooja Mehta,28,Female,HR,HR Manager,Bachelor's,Single,Chennai,14-12-2022,2.3,7902,2,68,No,Remote,4.0,2.8,No,8.5,No,Medium
+EMP0069,Nisha Gupta,50,Female,Sales,Business Development Manager,PhD,Divorced,Bangalore,23-07-2015,9.7,7046,3,14,Yes,Hybrid,1.2,2.5,No,9.7,No,High
+EMP0070,Gaurav Rao,54,Male,IT Support,Network Administrator,High School,Married,Kolkata,26-02-2018,7.1,5190,4,69,Yes,Office,2.8,4.2,No,14.7,Yes,Medium
+EMP0071,Arjun Mehta,50,Male,Customer Service,Service Manager,Bachelor's,Married,Bangalore,27-02-2014,11.1,6570,4,11,No,Remote,2.3,2.3,No,5.8,Yes,High
+EMP0072,Deepak Singh,31,Male,Marketing,Content Strategist,PhD,Single,Chennai,22-07-2016,8.7,4544,4,47,No,Remote,3.8,4.8,No,13.7,No,Low
+EMP0073,Pallavi Pillai,23,Female,Marketing,Content Strategist,Bachelor's,Single,Bangalore,09-11-2013,11.4,5271,3,22,Yes,Hybrid,4.4,1.4,No,12.5,No,High
+EMP0074,Deepak Rao,30,Male,IT Support,IT Support Engineer,Bachelor's,Single,Kolkata,03-10-2016,8.5,4898,5,61,Yes,Hybrid,3.7,2.0,No,4.3,No,Medium
+EMP0075,Riya Srivastava,37,Female,Operations,Supply Chain Executive,Bachelor's,Married,Pune,09-11-2013,11.4,5972,4,41,No,Remote,3.1,4.9,No,12.0,Yes,Medium
+EMP0076,Sneha Malhotra,45,Female,Sales,Account Manager,High School,Married,Mumbai,16-12-2015,9.3,5515,5,23,No,Office,4.8,1.9,No,5.2,Yes,Medium
+EMP0077,Varun Saxena,45,Male,Finance,Accountant,High School,Married,Delhi,13-06-2024,0.8,5878,4,47,No,Office,1.2,4.7,No,12.5,No,High
+EMP0078,Sonal Rao,22,Female,Sales,Sales Executive,Master's,Single,Kolkata,19-01-2023,2.2,5404,4,59,Yes,Hybrid,2.0,1.5,Yes,9.6,Yes,High
+EMP0079,Rahul Malhotra,56,Male,Engineering,Data Analyst,Bachelor's,Married,Hyderabad,01-10-2024,0.5,6084,4,28,No,Office,3.1,2.4,No,8.2,No,High
+EMP0080,Varun Malhotra,24,Male,IT Support,Network Administrator,Master's,Divorced,Mumbai,27-08-2020,4.6,4950,3,18,No,Remote,4.0,1.5,No,5.1,No,Medium
+EMP0081,Ritu Kumar,30,Female,Sales,Account Manager,PhD,Single,Bangalore,15-06-2022,2.8,6573,5,45,No,Remote,2.6,4.3,No,0.5,No,Low
+EMP0082,Shreya Verma,43,Female,Operations,Operations Analyst,Master's,Married,Hyderabad,03-04-2016,9.0,6300,3,28,No,Hybrid,2.5,4.2,No,1.2,No,Low
+EMP0083,Kritika Kumar,56,Female,Operations,Supply Chain Executive,High School,Single,Bangalore,26-02-2017,8.1,4786,4,59,Yes,Hybrid,2.4,1.2,No,5.3,No,High
+EMP0084,Sneha Singh,47,Female,Marketing,Brand Manager,Bachelor's,Single,Delhi,16-12-2014,10.3,7973,3,21,Yes,Remote,2.5,2.5,No,9.1,Yes,High
+EMP0085,Shreya Chopra,26,Female,HR,HR Manager,PhD,Married,Pune,21-07-2021,3.7,8402,1,28,No,Hybrid,4.7,1.5,No,10.6,Yes,Medium
+EMP0086,Ritu Joshi,29,Female,HR,HR Executive,PhD,Single,Pune,28-08-2019,5.6,3669,4,45,No,Remote,1.3,3.2,No,12.8,No,High
+EMP0087,Nikhil Saxena,36,Male,Sales,Sales Executive,Bachelor's,Single,Kolkata,20-01-2019,6.2,4474,4,64,No,Remote,1.5,4.5,Yes,6.0,No,Medium
+EMP0088,Pallavi Bose,48,Female,Sales,Sales Executive,Master's,Divorced,Mumbai,22-07-2019,5.7,4986,3,75,No,Office,4.1,1.5,No,13.0,No,Medium
+EMP0089,Ankit Kumar,32,Male,Marketing,Brand Manager,Bachelor's,Married,Chennai,16-06-2014,10.8,8404,3,75,Yes,Remote,2.2,3.1,No,2.5,No,High
+EMP0090,Amit Rao,43,Male,Engineering,Software Engineer,High School,Single,Pune,09-11-2015,9.4,6676,3,78,No,Remote,1.1,4.6,No,9.6,No,Medium
+EMP0091,Varun Reddy,51,Male,Sales,Account Manager,High School,Single,Hyderabad,15-12-2019,5.3,5906,3,23,Yes,Remote,2.3,5.0,No,6.0,No,High
+EMP0092,Deepak Mehta,51,Male,Sales,Business Development Manager,PhD,Single,Delhi,26-08-2023,1.6,6343,3,58,Yes,Office,4.3,4.7,No,2.8,Yes,Medium
+EMP0093,Ritu Reddy,53,Female,Engineering,Software Engineer,PhD,Divorced,Hyderabad,28-08-2013,11.6,6554,3,11,Yes,Remote,4.5,3.6,No,8.1,No,Medium
+EMP0094,Pooja Nair,45,Female,IT Support,Network Administrator,High School,Married,Mumbai,26-02-2018,7.1,5202,4,14,No,Hybrid,4.1,2.1,No,10.2,Yes,Medium
+EMP0095,Varun Pillai,43,Male,Marketing,Marketing Executive,Bachelor's,Divorced,Chennai,26-02-2020,5.1,4176,1,47,No,Remote,2.8,3.4,No,4.9,No,Medium
+EMP0096,Varun Rao,41,Male,Marketing,Brand Manager,PhD,Divorced,Chennai,09-05-2021,3.9,8327,3,19,No,Remote,2.2,4.6,No,9.4,No,Medium
+EMP0097,Aditi Kapoor,36,Female,Engineering,DevOps Engineer,Bachelor's,Divorced,Pune,15-06-2016,8.8,8408,3,36,Yes,Remote,1.4,1.1,No,2.3,Yes,High
+EMP0098,Pallavi Rao,52,Female,Engineering,Data Analyst,Bachelor's,Divorced,Bangalore,04-04-2013,12.0,6358,3,27,No,Remote,2.4,2.4,No,10.8,Yes,High
+EMP0099,Kritika Malhotra,34,Female,Finance,Accountant,Master's,Single,Bangalore,09-11-2015,9.4,5483,4,67,Yes,Hybrid,3.2,4.7,No,4.3,No,Medium
+EMP0100,Ananya Pillai,31,Female,Operations,Operations Analyst,Master's,Divorced,Mumbai,02-10-2020,4.5,5442,3,66,Yes,Remote,2.1,3.2,No,1.6,No,High
+EMP0101,Karthik Verma,55,Male,Finance,Finance Manager,Bachelor's,Single,Mumbai,15-12-2019,5.3,9175,2,22,Yes,Remote,4.9,1.6,No,13.2,Yes,High
+EMP0102,Ankit Iyer,40,Male,Engineering,Software Engineer,Bachelor's,Divorced,Pune,15-06-2016,8.8,8342,5,27,No,Office,4.7,1.1,No,11.8,Yes,Medium
+EMP0103,Sneha Sharma,41,Female,Sales,Business Development Manager,Master's,Married,Pune,22-07-2018,6.7,6819,5,69,No,Office,4.2,2.3,No,9.7,No,Medium
+EMP0104,Deepak Reddy,58,Male,Finance,Financial Analyst,PhD,Married,Chennai,14-12-2020,4.3,6601,2,22,No,Office,1.0,2.5,No,4.0,Yes,High
+EMP0105,Rajesh Pillai,37,Male,Engineering,Software Engineer,PhD,Married,Delhi,20-01-2020,5.2,7266,5,44,No,Remote,4.7,2.2,No,3.3,Yes,Medium
+EMP0106,Siddharth Rao,45,Male,IT Support,System Analyst,PhD,Divorced,Kolkata,26-02-2017,8.1,5558,3,15,No,Remote,3.8,1.3,No,0.9,No,Medium
+EMP0107,Vivek Srivastava,31,Male,HR,HR Manager,PhD,Single,Pune,09-05-2022,2.9,7466,2,70,No,Office,2.8,3.1,No,0.9,No,Medium
+EMP0108,Priya Das,38,Female,Engineering,Data Analyst,High School,Single,Hyderabad,02-10-2020,4.5,5451,5,13,No,Hybrid,1.1,2.6,No,11.5,No,High
+EMP0109,Shreya Das,50,Female,IT Support,Network Administrator,High School,Divorced,Pune,28-08-2014,10.6,5080,5,20,Yes,Remote,2.6,1.5,No,12.5,No,High
+EMP0110,Sonal Srivastava,49,Female,IT Support,IT Support Engineer,Bachelor's,Married,Bangalore,14-12-2022,2.3,4198,5,19,Yes,Remote,2.7,4.1,No,0.2,Yes,Medium
+EMP0111,Gaurav Verma,50,Male,Engineering,Data Analyst,High School,Married,Hyderabad,19-01-2022,3.2,5787,5,12,Yes,Hybrid,1.9,4.7,No,8.7,No,High
+EMP0112,Riya Reddy,31,Female,Finance,Accountant,Master's,Married,Mumbai,10-05-2018,6.9,5285,4,27,No,Hybrid,3.2,1.2,No,9.6,No,Medium
+EMP0113,Tanvi Bose,31,Female,Operations,Supply Chain Executive,Bachelor's,Divorced,Hyderabad,14-12-2021,3.3,4644,5,23,No,Office,3.2,4.9,No,2.0,No,Low
+EMP0114,Deepak Singh,50,Male,Marketing,Marketing Executive,Bachelor's,Single,Bangalore,14-06-2020,4.8,5131,1,14,Yes,Remote,3.9,3.2,No,13.0,Yes,High
+EMP0115,Suresh Joshi,29,Male,Customer Service,Customer Support Executive,Bachelor's,Married,Delhi,15-06-2018,6.8,4205,3,73,No,Hybrid,2.0,3.1,No,1.5,No,Medium
+EMP0116,Nisha Joshi,45,Female,Marketing,Content Strategist,High School,Divorced,Kolkata,02-04-2022,3.0,4655,3,79,No,Hybrid,2.2,1.8,Yes,8.5,Yes,High
+EMP0117,Neha Malhotra,53,Female,Customer Service,Customer Support Executive,Master's,Single,Delhi,15-06-2016,8.8,3828,5,74,No,Office,3.1,4.4,Yes,12.3,Yes,Low
+EMP0118,Mohit Gupta,36,Male,Sales,Account Manager,Bachelor's,Single,Delhi,15-12-2018,6.3,5720,4,66,No,Office,1.0,3.2,Yes,7.9,Yes,Medium
+EMP0119,Priya Saxena,49,Female,HR,HR Executive,High School,Divorced,Delhi,14-12-2021,3.3,4445,3,50,Yes,Hybrid,1.3,4.8,No,3.6,Yes,High
+EMP0120,Anjali Verma,27,Female,IT Support,Network Administrator,PhD,Divorced,Hyderabad,25-02-2024,1.1,4835,3,68,No,Remote,4.1,3.3,No,1.4,No,Medium
+EMP0121,Karthik Joshi,58,Male,Customer Service,Team Lead,High School,Single,Pune,27-02-2014,11.1,6309,4,9,Yes,Hybrid,1.1,1.8,Yes,12.3,No,High
+EMP0122,Ankit Kumar,58,Male,Finance,Finance Manager,PhD,Divorced,Chennai,14-12-2020,4.3,9287,2,15,No,Hybrid,1.2,2.7,No,5.1,No,High
+EMP0123,Nisha Sharma,39,Female,Customer Service,Team Lead,Bachelor's,Married,Chennai,16-12-2013,11.3,5422,4,53,Yes,Remote,2.2,2.0,Yes,4.0,Yes,High
+EMP0124,Varun Iyer,45,Male,Sales,Sales Executive,High School,Married,Hyderabad,27-08-2020,4.6,4328,2,28,No,Remote,3.2,2.6,Yes,5.3,Yes,Medium
+EMP0125,Ananya Sharma,40,Female,IT Support,Network Administrator,High School,Divorced,Chennai,11-05-2014,10.9,6756,4,26,No,Office,1.6,2.2,No,0.9,Yes,High
+EMP0126,Swati Malhotra,26,Female,Marketing,Content Strategist,Bachelor's,Divorced,Pune,20-01-2019,6.2,5506,4,22,Yes,Hybrid,2.3,3.5,No,4.9,Yes,High
+EMP0127,Ankit Iyer,34,Male,Customer Service,Team Lead,Bachelor's,Married,Bangalore,09-05-2021,3.9,5921,4,78,No,Hybrid,2.5,4.3,No,1.7,No,Low
+EMP0128,Ishaan Sharma,51,Male,Finance,Accountant,Master's,Divorced,Mumbai,11-05-2015,9.9,5642,3,68,Yes,Hybrid,2.0,3.6,No,11.8,Yes,High
+EMP0129,Aditi Das,56,Female,IT Support,System Analyst,High School,Married,Pune,16-06-2014,10.8,6227,4,15,Yes,Office,3.6,2.4,No,0.7,No,Medium
+EMP0130,Nisha Bose,28,Female,Engineering,Software Engineer,Master's,Single,Chennai,27-02-2016,9.1,7404,4,33,No,Hybrid,2.9,3.7,No,2.3,No,Low
+EMP0131,Kavya Reddy,48,Female,Sales,Sales Executive,Bachelor's,Married,Bangalore,07-11-2020,4.4,5153,4,49,No,Hybrid,3.9,2.8,Yes,0.7,No,Low
+EMP0132,Deepak Patel,32,Male,Finance,Finance Manager,Bachelor's,Divorced,Delhi,14-12-2020,4.3,8326,4,56,No,Office,3.6,2.7,Yes,9.2,No,Low
+EMP0133,Ananya Sharma,35,Female,Finance,Accountant,High School,Divorced,Mumbai,23-07-2015,9.7,5189,3,30,No,Hybrid,3.7,3.0,No,4.7,No,Low
+EMP0134,Aditi Patel,44,Female,Marketing,Content Strategist,Bachelor's,Divorced,Pune,23-07-2015,9.7,6052,4,22,Yes,Office,2.2,1.7,No,7.7,Yes,High
+EMP0135,Vivek Das,49,Male,HR,L&D Specialist,Bachelor's,Divorced,Delhi,26-02-2019,6.1,4495,3,62,No,Hybrid,4.8,2.9,Yes,5.8,No,Low
+EMP0136,Tanvi Malhotra,48,Female,Customer Service,Team Lead,Bachelor's,Single,Chennai,08-05-2024,0.9,6047,3,40,Yes,Hybrid,1.7,2.8,No,11.5,Yes,High
+EMP0137,Vivek Patel,39,Male,Marketing,Brand Manager,High School,Divorced,Hyderabad,15-06-2018,6.8,8773,2,36,Yes,Office,2.8,2.4,No,6.6,No,High
+EMP0138,Suresh Kapoor,44,Male,IT Support,IT Support Engineer,Bachelor's,Single,Kolkata,09-05-2022,2.9,3991,3,40,No,Office,2.3,3.8,No,4.0,No,Medium
+EMP0139,Rohan Bose,25,Male,Operations,Operations Manager,Bachelor's,Divorced,Kolkata,02-04-2023,2.0,7134,3,36,No,Remote,2.6,1.6,No,9.4,No,Medium
+EMP0140,Vikas Das,54,Male,Operations,Operations Manager,Master's,Married,Hyderabad,14-12-2020,4.3,6736,4,16,No,Hybrid,3.5,3.8,No,11.9,No,Low
+EMP0141,Meera Malhotra,39,Female,Marketing,Content Strategist,Master's,Divorced,Chennai,02-04-2023,2.0,5933,4,11,Yes,Remote,4.1,2.8,Yes,12.9,No,Medium
+EMP0142,Mohit Joshi,30,Male,Operations,Operations Analyst,Master's,Single,Pune,27-08-2020,4.6,4760,4,26,Yes,Remote,2.2,3.8,Yes,9.8,No,High
+EMP0143,Suresh Malhotra,26,Male,HR,Recruiter,PhD,Single,Mumbai,03-10-2016,8.5,5206,5,59,No,Hybrid,1.3,2.5,No,1.5,No,Medium
+EMP0144,Pooja Das,30,Female,HR,HR Executive,High School,Divorced,Pune,07-11-2022,2.4,4053,3,24,No,Remote,3.7,4.4,Yes,1.5,No,Low
+EMP0145,Shreya Bose,42,Female,HR,Recruiter,Master's,Divorced,Mumbai,07-11-2021,3.4,4859,4,41,No,Remote,1.1,4.4,No,3.1,No,Medium
+EMP0146,Varun Reddy,25,Male,Finance,Accountant,PhD,Single,Delhi,20-01-2019,6.2,5289,4,6,No,Hybrid,1.5,4.4,No,5.5,No,Medium
+EMP0147,Anjali Sharma,26,Female,Engineering,QA Engineer,Bachelor's,Single,Mumbai,09-11-2013,11.4,5358,3,69,No,Hybrid,3.8,1.3,No,9.2,Yes,Medium
+EMP0148,Anjali Saxena,35,Female,HR,HR Manager,PhD,Divorced,Pune,16-12-2015,9.3,7631,4,44,No,Remote,4.8,2.0,Yes,13.9,Yes,Medium
+EMP0149,Ankit Kumar,29,Male,Engineering,Data Analyst,High School,Single,Hyderabad,04-10-2013,11.5,6456,4,38,Yes,Office,4.0,4.5,No,1.8,No,Medium
+EMP0150,Tanvi Nair,55,Female,Sales,Business Development Manager,High School,Married,Hyderabad,08-11-2018,6.4,5796,5,26,No,Hybrid,4.1,4.6,No,1.7,No,Low
+EMP0151,Arjun Sharma,37,Male,Engineering,DevOps Engineer,Master's,Married,Delhi,26-08-2022,2.6,8895,1,58,Yes,Office,2.7,3.9,No,1.2,No,Medium
+EMP0152,Amit Mehta,55,Male,Engineering,DevOps Engineer,High School,Married,Kolkata,21-07-2021,3.7,8592,3,75,No,Hybrid,1.8,3.3,No,9.3,Yes,High
+EMP0153,Meera Srivastava,37,Female,HR,HR Executive,PhD,Single,Delhi,22-07-2018,6.7,4469,4,6,No,Office,4.0,2.5,No,4.6,No,Low
+EMP0154,Mohit Malhotra,25,Male,HR,HR Manager,High School,Single,Delhi,16-06-2014,10.8,7309,4,52,No,Remote,1.3,1.4,Yes,12.3,Yes,High
+EMP0155,Mohit Gupta,37,Male,Operations,Supply Chain Executive,Master's,Married,Pune,27-02-2015,10.1,4820,4,34,Yes,Office,1.5,4.1,Yes,1.6,No,Medium
+EMP0156,Tanvi Patel,56,Female,Marketing,Marketing Executive,PhD,Married,Hyderabad,02-10-2021,3.5,4311,3,43,No,Remote,3.4,1.9,No,2.2,No,Medium
+EMP0157,Ananya Saxena,25,Female,Operations,Supply Chain Executive,Bachelor's,Single,Hyderabad,16-12-2014,10.3,5222,4,17,No,Office,1.5,1.2,No,3.3,Yes,High
+EMP0158,Shreya Singh,38,Female,Sales,Sales Executive,High School,Single,Pune,28-08-2019,5.6,4102,5,47,Yes,Hybrid,1.2,4.7,No,10.9,Yes,High
+EMP0159,Tanvi Kumar,44,Female,Finance,Financial Analyst,Master's,Married,Hyderabad,23-07-2014,10.7,5747,4,36,No,Hybrid,2.6,3.2,Yes,4.2,No,Low
+EMP0160,Pranav Mehta,56,Male,Engineering,DevOps Engineer,Master's,Married,Chennai,04-10-2015,9.5,7278,4,46,No,Office,1.1,3.4,Yes,12.2,Yes,Medium
+EMP0161,Pallavi Pillai,36,Female,HR,HR Executive,Bachelor's,Divorced,Delhi,26-08-2021,3.6,4732,5,12,No,Office,3.3,4.9,No,14.0,No,Medium
+EMP0162,Amit Mehta,42,Male,Marketing,Brand Manager,High School,Divorced,Pune,02-10-2020,4.5,7690,2,29,No,Hybrid,3.2,1.7,Yes,0.8,No,Medium
+EMP0163,Pranav Malhotra,22,Male,Marketing,Brand Manager,Bachelor's,Single,Bangalore,22-07-2016,8.7,8591,4,46,Yes,Office,3.3,4.7,No,12.7,No,Medium
+EMP0164,Nikhil Das,28,Male,Marketing,Content Strategist,Master's,Single,Delhi,10-05-2016,8.9,5181,4,67,No,Office,3.8,3.2,No,9.2,No,Medium
+EMP0165,Varun Reddy,40,Male,HR,Recruiter,High School,Divorced,Chennai,02-04-2020,5.0,5490,5,9,Yes,Hybrid,4.7,4.9,Yes,8.5,No,Medium
+EMP0166,Deepak Singh,37,Male,Marketing,Content Strategist,Bachelor's,Divorced,Mumbai,11-05-2015,9.9,5603,4,47,No,Hybrid,1.8,3.8,No,11.8,No,Medium
+EMP0167,Varun Chopra,48,Male,HR,L&D Specialist,PhD,Married,Bangalore,15-06-2018,6.8,4427,4,78,No,Remote,1.9,2.8,No,0.5,Yes,Medium
+EMP0168,Kavya Singh,43,Female,HR,L&D Specialist,Bachelor's,Divorced,Mumbai,15-06-2018,6.8,5821,2,66,No,Hybrid,4.8,1.7,No,2.4,Yes,Medium
+EMP0169,Suresh Bose,57,Male,Operations,Operations Manager,Master's,Married,Delhi,26-08-2023,1.6,7817,4,67,Yes,Hybrid,1.0,1.4,No,9.4,Yes,High
+EMP0170,Aarav Joshi,32,Male,Operations,Operations Analyst,PhD,Single,Bangalore,04-10-2015,9.5,5496,5,38,Yes,Remote,2.6,2.5,No,2.8,Yes,Medium
+EMP0171,Sonal Nair,36,Female,Operations,Operations Manager,High School,Single,Kolkata,03-10-2016,8.5,6997,4,74,No,Remote,1.9,1.2,No,7.8,No,High
+EMP0172,Aditi Mehta,52,Female,Operations,Operations Analyst,PhD,Divorced,Mumbai,15-12-2018,6.3,6311,4,23,Yes,Hybrid,1.7,4.9,No,12.1,Yes,High
+EMP0173,Anjali Bose,34,Female,HR,HR Manager,Master's,Divorced,Kolkata,14-12-2023,1.3,6982,3,46,No,Remote,2.8,4.5,No,9.3,No,Medium
+EMP0174,Kavya Bose,31,Female,HR,HR Executive,High School,Divorced,Kolkata,21-07-2023,1.7,3958,4,49,No,Hybrid,2.5,2.9,No,0.6,Yes,Medium
+EMP0175,Gaurav Rao,47,Male,Engineering,DevOps Engineer,Master's,Divorced,Delhi,25-02-2024,1.1,7622,3,52,Yes,Hybrid,2.2,4.4,No,10.3,No,High
+EMP0176,Rohan Reddy,50,Male,Marketing,Content Strategist,PhD,Divorced,Pune,02-10-2023,1.5,5190,5,57,No,Remote,4.5,4.3,No,2.4,No,Low
+EMP0177,Pooja Saxena,58,Female,Engineering,Data Analyst,Bachelor's,Single,Kolkata,19-01-2024,1.2,5384,2,51,No,Hybrid,2.5,2.9,No,13.8,Yes,High
+EMP0178,Nikhil Malhotra,50,Male,HR,L&D Specialist,Master's,Married,Delhi,27-02-2015,10.1,4702,4,16,Yes,Hybrid,1.2,4.4,No,3.2,Yes,High
+EMP0179,Suresh Nair,48,Male,Engineering,Software Engineer,PhD,Single,Pune,02-10-2022,2.5,8006,3,44,No,Remote,3.6,2.7,No,5.2,No,Low
+EMP0180,Swati Saxena,47,Female,Sales,Sales Executive,Master's,Divorced,Pune,15-12-2017,7.3,4349,4,66,Yes,Hybrid,3.6,4.4,No,10.7,No,Medium
+EMP0181,Meera Gupta,55,Female,Finance,Financial Analyst,PhD,Divorced,Bangalore,15-12-2016,8.3,7349,4,42,Yes,Hybrid,2.6,3.9,No,14.9,No,Medium
+EMP0182,Riya Srivastava,52,Female,Marketing,Brand Manager,Master's,Single,Kolkata,26-02-2017,8.1,7666,3,65,Yes,Hybrid,3.9,3.2,No,14.2,No,Medium
+EMP0183,Karthik Pillai,36,Male,Operations,Supply Chain Executive,Master's,Married,Bangalore,20-01-2018,7.2,5061,2,11,No,Remote,3.3,3.5,No,2.9,Yes,Medium
+EMP0184,Pallavi Reddy,48,Female,Engineering,Data Analyst,Bachelor's,Single,Bangalore,20-01-2020,5.2,6558,5,63,Yes,Remote,1.7,1.3,No,14.8,Yes,High
+EMP0185,Aarav Chopra,39,Male,Finance,Financial Analyst,Bachelor's,Married,Kolkata,16-12-2015,9.3,5872,4,59,No,Hybrid,2.5,1.2,Yes,5.6,Yes,Medium
+EMP0186,Pallavi Joshi,23,Female,Engineering,Data Analyst,Bachelor's,Divorced,Bangalore,25-02-2021,4.1,5537,4,44,Yes,Office,2.2,2.2,No,8.9,Yes,High
+EMP0187,Deepak Malhotra,44,Male,Finance,Financial Analyst,PhD,Single,Delhi,25-02-2022,3.1,7964,3,7,No,Office,1.5,3.8,No,5.6,No,Medium
+EMP0188,Gaurav Verma,28,Male,Engineering,Software Engineer,High School,Married,Hyderabad,09-05-2020,4.9,7377,4,24,Yes,Remote,3.5,2.2,No,9.9,Yes,High
+EMP0189,Mohit Patel,54,Male,Sales,Business Development Manager,High School,Single,Hyderabad,15-06-2022,2.8,6132,3,71,No,Hybrid,3.8,2.2,Yes,7.4,No,Low
+EMP0190,Nisha Mehta,22,Female,Engineering,Software Engineer,High School,Divorced,Pune,20-01-2019,6.2,8374,4,14,No,Office,4.6,3.6,No,14.7,No,Low
+EMP0191,Rahul Kumar,24,Male,Operations,Supply Chain Executive,Master's,Married,Pune,14-06-2023,1.8,5739,5,6,No,Remote,3.6,2.3,No,14.3,Yes,Medium
+EMP0192,Nikhil Iyer,33,Male,Sales,Business Development Manager,PhD,Married,Bangalore,27-02-2015,10.1,7276,4,58,No,Office,1.5,3.8,Yes,14.1,Yes,Medium
+EMP0193,Aditi Malhotra,58,Female,Customer Service,Customer Support Executive,PhD,Married,Chennai,13-06-2024,0.8,4085,4,21,No,Hybrid,1.5,2.6,Yes,3.9,No,Medium
+EMP0194,Deepak Saxena,55,Male,Sales,Business Development Manager,Bachelor's,Married,Bangalore,26-02-2017,8.1,7163,2,76,No,Remote,1.2,3.6,Yes,12.7,No,Medium
+EMP0195,Vikas Malhotra,42,Male,Finance,Accountant,Master's,Single,Chennai,25-02-2022,3.1,5375,3,35,Yes,Hybrid,4.2,2.8,No,6.7,Yes,Medium
+EMP0196,Priya Patel,47,Female,IT Support,IT Support Engineer,High School,Single,Kolkata,08-11-2017,7.4,4888,3,70,No,Remote,3.7,4.8,No,0.8,No,Low
+EMP0197,Nisha Srivastava,52,Female,Marketing,Brand Manager,PhD,Single,Mumbai,22-01-2016,9.2,6802,3,42,No,Hybrid,3.8,1.2,Yes,2.1,No,Low
+EMP0198,Kavya Nair,34,Female,Finance,Financial Analyst,PhD,Single,Hyderabad,04-04-2015,10.0,6111,3,58,Yes,Remote,4.3,3.4,No,6.8,No,Medium
+EMP0199,Aditya Sharma,55,Male,Engineering,DevOps Engineer,PhD,Divorced,Kolkata,27-02-2014,11.1,6840,4,21,Yes,Remote,3.4,4.5,No,5.8,No,Medium
+EMP0200,Rajesh Das,43,Male,Operations,Supply Chain Executive,Bachelor's,Single,Hyderabad,08-11-2017,7.4,5801,4,75,No,Remote,3.9,3.2,Yes,3.1,No,Low
